@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on start now button]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Nationality from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next step button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason tourism]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected message to compare]]>
+    </line>
+    <line>
+      <![CDATA[Getting result message]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on start now button]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Nationality from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next step button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason tourism]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected message to compare]]>
+    </line>
+    <line>
+      <![CDATA[Getting result message]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on start now button]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Nationality from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next step button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on reason tourism]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected message to compare]]>
+    </line>
+    <line>
+      <![CDATA[Getting result message]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="36640" started-at="2022-12-15T19:19:48 GMT" finished-at="2022-12-15T19:20:25 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:3, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="VisaConfirmationTest.anAustralianCominToUKForTourism()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Regression Test" duration-ms="36640" started-at="2022-12-15T19:19:48 GMT" finished-at="2022-12-15T19:20:25 GMT">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="setUp" is-config="true" duration-ms="12600" started-at="2022-12-15T19:19:49 GMT" finished-at="2022-12-15T19:20:02 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="inIt" is-config="true" duration-ms="157" started-at="2022-12-15T19:20:02 GMT" finished-at="2022-12-15T19:20:02 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="anAustralianCominToUKForTourism()[pri:1, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="anAustralianCominToUKForTourism" duration-ms="2209" started-at="2022-12-15T19:20:02 GMT" finished-at="2022-12-15T19:20:04 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on start now button]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Nationality from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next step button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason tourism]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected message to compare]]>
+            </line>
+            <line>
+              <![CDATA[Getting result message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="setUp" is-config="true" duration-ms="5623" started-at="2022-12-15T19:20:05 GMT" finished-at="2022-12-15T19:20:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-15T19:20:10 GMT" finished-at="2022-12-15T19:20:10 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:2, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="4518" started-at="2022-12-15T19:20:10 GMT" finished-at="2022-12-15T19:20:15 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on start now button]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Nationality from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next step button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason tourism]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected message to compare]]>
+            </line>
+            <line>
+              <![CDATA[Getting result message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="setUp" is-config="true" duration-ms="5375" started-at="2022-12-15T19:20:15 GMT" finished-at="2022-12-15T19:20:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="inIt" is-config="true" duration-ms="10" started-at="2022-12-15T19:20:21 GMT" finished-at="2022-12-15T19:20:21 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:3, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@10dba097]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" duration-ms="3280" started-at="2022-12-15T19:20:21 GMT" finished-at="2022-12-15T19:20:24 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on start now button]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Nationality from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next step button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on reason tourism]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected message to compare]]>
+            </line>
+            <line>
+              <![CDATA[Getting result message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- testsuite -->
+</testng-results>
